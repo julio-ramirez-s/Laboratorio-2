@@ -1,0 +1,6 @@
+C:\Users\julio\OneDrive\Desktop\laboratorio 2\EjercicioBucle\EjercicioBucle\bin\Debug\EjercicioBucle.exe.config
+C:\Users\julio\OneDrive\Desktop\laboratorio 2\EjercicioBucle\EjercicioBucle\obj\Debug\EjercicioBucle.csprojResolveAssemblyReference.cache
+C:\Users\julio\OneDrive\Desktop\laboratorio 2\EjercicioBucle\EjercicioBucle\bin\Debug\EjercicioBucle.exe
+C:\Users\julio\OneDrive\Desktop\laboratorio 2\EjercicioBucle\EjercicioBucle\bin\Debug\EjercicioBucle.pdb
+C:\Users\julio\OneDrive\Desktop\laboratorio 2\EjercicioBucle\EjercicioBucle\obj\Debug\EjercicioBucle.exe
+C:\Users\julio\OneDrive\Desktop\laboratorio 2\EjercicioBucle\EjercicioBucle\obj\Debug\EjercicioBucle.pdb
