@@ -1,0 +1,6 @@
+C:\Users\julio\OneDrive\Desktop\laboratorio2\bucle for\bucle for\bin\Debug\bucle for.exe.config
+C:\Users\julio\OneDrive\Desktop\laboratorio2\bucle for\bucle for\bin\Debug\bucle for.exe
+C:\Users\julio\OneDrive\Desktop\laboratorio2\bucle for\bucle for\bin\Debug\bucle for.pdb
+C:\Users\julio\OneDrive\Desktop\laboratorio2\bucle for\bucle for\obj\Debug\bucle for.csprojResolveAssemblyReference.cache
+C:\Users\julio\OneDrive\Desktop\laboratorio2\bucle for\bucle for\obj\Debug\bucle for.exe
+C:\Users\julio\OneDrive\Desktop\laboratorio2\bucle for\bucle for\obj\Debug\bucle for.pdb
